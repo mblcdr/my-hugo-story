@@ -1,5 +1,6 @@
-# Hugo Story
+# A modified version of Hugo Story
 ## A (modular, highly tweakable) responsive one-page theme for Hugo.
+### Original version: [Hugo Story](https://github.com/caressofsteel/hugo-story) © 2020 [CaressOfSteel](https://github.com/caressofsteel)
 
 ![](images/device-screenshots.png)
 

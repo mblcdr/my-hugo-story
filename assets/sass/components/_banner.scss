@@ -931,6 +931,14 @@
 
 // Mixin
 
+	.banner {
+		&.content-rtl {
+			.content {
+				direction: rtl;
+			}
+		}
+	}
+
 	@mixin color-banner($p: null) {
 		.banner {
 			.image {

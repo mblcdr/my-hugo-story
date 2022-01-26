@@ -1010,4 +1010,12 @@
 		}
 	}
 
+	.spotlight {
+		&.content-rtl {
+			.content {
+				direction: rtl;
+			}
+		}
+	}
+
 	@include color-spotlight;
